@@ -7,8 +7,6 @@ If you use this work or publish a modified version of it, please cite the follow
 2025 Mach. Learn.: Sci. Technol. 6 025044
 [10.1088/2632-2153/add3bd](https://iopscience.iop.org/article/10.1088/2632-2153/add3bd)
 
-[arXiv:2501.15222](https://arxiv.org/abs/2501.15222).
-
 
 ## Description
 
